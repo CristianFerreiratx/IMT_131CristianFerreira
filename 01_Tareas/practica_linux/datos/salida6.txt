@@ -1,0 +1,8 @@
+./salida6.txt
+./datos/nombres.txt
+./datos/log.txt
+./datos/salida5.txt
+./datos/salida2.txt
+./datos/salida4.txt
+./datos/salida1.txt
+./datos/salida3.txt
