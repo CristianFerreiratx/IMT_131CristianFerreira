@@ -1,0 +1,6 @@
+#1!/bin/bash
+
+mkdir ejem/ 
+cd ejem/ 
+date > fecha.txt
+cat fecha.txt
